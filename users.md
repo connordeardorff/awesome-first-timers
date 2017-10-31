@@ -502,3 +502,8 @@
   Place: Allahabad, India  
   Bio: Developer under development.   
   GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+  
+  Name: Connor Deardorff
+  Place: Morgantown, WV
+  Bio: A guy who wants a free t shirt.
+  GitHub: [connordeardorff](https://github.com/connordeardorff)
